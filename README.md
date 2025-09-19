@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Castillo
 
-<!--
-**luiscr918/luiscr918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en formación con experiencia en **Spring Boot** y **React**, apasionado por crear soluciones eficientes y aprender nuevas tecnologías.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mí
+- Estudiante y practicante de desarrollo de software.
+- Interés en **Backend, DevOps y tecnologías web modernas**.
+- Motivado por proyectos que mezclen **Java, Spring, React y Docker**.
+- Siempre aprendiendo y mejorando mis habilidades.
+
+---
+
+## 🛠️ Habilidades
+- **Lenguajes:** Java, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** Spring Boot, React, Tailwind
+- **Herramientas:** Git, GitHub, Docker
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+
+---
+
+## 📂 Proyectos destacados
+- [TrabajoFocusUp](https://github.com/luiscr918/FocusUp) - Página web acerca de técnicas de estudio
+- [Proyecto-Licoln](https://github.com/luiscr918/proyecto-lincon-web) - Web informativa para una escuela sin presencia en línea.
+- [ProyectoFrontMongo](https://github.com/luiscr918/proyecto-front-bd2) - Frontend en React conectado a un backend con MongoDB; incluye consumo de API, manejo de formularios y diseño limpio.
+- [ProyectoBackSpring](https://github.com/luiscr918/proyecto-BD-2-Backend) - Backend en Spring Boot para el proyecto anterior, con API REST, manejo de datos en MongoDB y lógica de negocio estructurada.
+> Para ver todos mis proyectos: [Repositorios de Luis Castillo](https://github.com/luiscr918?tab=repositories)
+
+---
+
+## 📄 CV
+Puedes descargar mi CV completo en PDF:  
+[📄 Descargar CV](./Luis_Castillo_CV.pdf)
