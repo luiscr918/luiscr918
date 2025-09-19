@@ -7,15 +7,15 @@
 ## 💼 Sobre mí
 - Estudiante y practicante de desarrollo de software.
 - Interés en **Backend, DevOps y tecnologías web modernas**.
-- Motivado por proyectos que mezclen **Java, Spring, React y Docker**.
+- Motivado por proyectos que mezclen **Java, Spring, React y Angular**.
 - Siempre aprendiendo y mejorando mis habilidades.
 
 ---
 
 ## 🛠️ Habilidades
 - **Lenguajes:** Java, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** Spring Boot, React, Tailwind
-- **Herramientas:** Git, GitHub, Docker
+- **Frameworks y Librerías:** Spring Boot, React, Tailwind , Angular
+- **Herramientas:** Git, GitHub,
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
 
 ---
