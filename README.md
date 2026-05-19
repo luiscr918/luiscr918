@@ -32,4 +32,4 @@
 
 ## 📄 CV
 Puedes descargar mi CV completo en PDF:  
-[📄 Descargar CV](./cvFinalLuisCastillo.pdf)
+[📄 Descargar CV](./cvLuisCastillolc.pdf)
